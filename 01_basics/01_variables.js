@@ -1,5 +1,5 @@
-const accountId = 144553
-let accountEmail = "hitesh@google.com"
+const accountId = 98613
+let accountEmail = "kuldeep@gmail.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
@@ -8,7 +8,7 @@ let accountState;
 
 
 accountEmail = "hc@hc.com"
-accountPassword = "21212121"
+accountPassword = "0731973"
 accountCity = "Bengaluru"
 
 console.log(accountId);
